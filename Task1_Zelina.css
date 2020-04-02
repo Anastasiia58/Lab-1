@@ -10,7 +10,7 @@ input.showNameButton{
 }
 
 input.showNameButton:hover {
-  background-color: #ADD8E6;
+  background-color: #FF1493;
 }
 
 input.showFormIdButton{
@@ -25,7 +25,7 @@ input.showFormIdButton{
 }
 
 input.showFormIdButton:hover {
-  background-color: #ADD8E6;
+  background-color: #FF1493;
 }
 
 input.resetButton{
@@ -40,7 +40,7 @@ input.resetButton{
 }
 
 input.resetButton:hover {
-  background-color: #ADD8E6;
+  background-color: #FF1493;
 }
 
 input.showCountButton{
@@ -55,5 +55,5 @@ input.showCountButton{
 }
 
 input.showCountButton:hover {
-  background-color: #ADD8E6;
+  background-color: #FF1493;
 }
